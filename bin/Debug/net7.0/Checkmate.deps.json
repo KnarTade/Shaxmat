@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Checkmate/1.0.0": {
+        "dependencies": {
+          "CheckmateLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Checkmate.dll": {}
+        }
+      },
+      "CheckmateLibrary/1.0.0": {
+        "runtime": {
+          "CheckmateLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Checkmate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CheckmateLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

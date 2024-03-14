@@ -1,0 +1,12 @@
+C:\Users\Knar\source\repos\CheckmateLibrary\bin\Debug\net7.0\CheckmateLibrary.deps.json
+C:\Users\Knar\source\repos\CheckmateLibrary\bin\Debug\net7.0\CheckmateLibrary.dll
+C:\Users\Knar\source\repos\CheckmateLibrary\bin\Debug\net7.0\CheckmateLibrary.pdb
+C:\Users\Knar\source\repos\CheckmateLibrary\obj\Debug\net7.0\CheckmateLibrary.csproj.AssemblyReference.cache
+C:\Users\Knar\source\repos\CheckmateLibrary\obj\Debug\net7.0\CheckmateLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Knar\source\repos\CheckmateLibrary\obj\Debug\net7.0\CheckmateLibrary.AssemblyInfoInputs.cache
+C:\Users\Knar\source\repos\CheckmateLibrary\obj\Debug\net7.0\CheckmateLibrary.AssemblyInfo.cs
+C:\Users\Knar\source\repos\CheckmateLibrary\obj\Debug\net7.0\CheckmateLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Knar\source\repos\CheckmateLibrary\obj\Debug\net7.0\CheckmateLibrary.dll
+C:\Users\Knar\source\repos\CheckmateLibrary\obj\Debug\net7.0\refint\CheckmateLibrary.dll
+C:\Users\Knar\source\repos\CheckmateLibrary\obj\Debug\net7.0\CheckmateLibrary.pdb
+C:\Users\Knar\source\repos\CheckmateLibrary\obj\Debug\net7.0\ref\CheckmateLibrary.dll
